@@ -2,4 +2,4 @@
 
 Unofficial documentation on kit building for AltSpaceVR
 
-* [Adding Physics To AltSpace Kits](/Documentation-KitBuilding/blob/main/Physics.md)
+* [Adding Physics To AltSpace Kits](/Physics.md)
